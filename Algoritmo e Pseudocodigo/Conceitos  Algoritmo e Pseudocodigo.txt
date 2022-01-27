@@ -1,0 +1,7 @@
+Lógica de Programação: Coerência de raciocinio, ideias e sequencia coerente. BUsca a melhor sequencia  de ações para solucionar o problema, essa sequencia, é o algoritmo.
+
+Algoritmo: Sequencias de passos que resolvem um problema.Conjunto de instruções estruturadas e ordenadas, seu objetivo é realizar uma tarefa ou operação específica.
+
+Fluxograma: ferramenta utilizada para representar graficamente o algoritmo, isto é, a sequencia lógica e coerente do fluxo de dados. 
+
+Variável: Na programação, uma variável é uma posição frequentemente localizada na memória capaz de representar um valor ou expressão.

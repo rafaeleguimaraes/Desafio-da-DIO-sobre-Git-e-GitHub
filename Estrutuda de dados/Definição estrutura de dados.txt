@@ -1,0 +1,1 @@
+Estrutura organizada de dados na memória de um computador ou em qualquer dispositivo de armazenamento, de forma que os dados possam ser utilizados de maneira correta. 

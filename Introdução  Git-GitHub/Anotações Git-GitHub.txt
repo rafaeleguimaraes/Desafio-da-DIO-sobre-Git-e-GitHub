@@ -1,0 +1,11 @@
+O Git é um sistema de versionamento de código distribuido.Faz uso do algoritmo de encriptação para poder identificar os arquivos de uma forma segura e rápida. O git bash é um terminal estendido para utilizar o uso do Git. 
+
+GitHUb é um repositório online. 
+
+Vantagens: 
+ 
+1. Controle de versao 
+2. Armazenamento na nuvem
+3. Trabalho em equipe
+4. Melhora seu código
+5. Reconhecimento
